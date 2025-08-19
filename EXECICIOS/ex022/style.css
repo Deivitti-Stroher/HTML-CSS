@@ -1,4 +1,9 @@
 
+
+body{
+    background-image: url('imagens/wallpaper001.jpg');
+}
+
 .quadrado{
     display: inline-block;
     border: 2px solid black;
@@ -17,5 +22,5 @@
 }
 
 #q3 {
-    background-image: url('');
+    background-image: url('imagens/pattern003.png');
 }
